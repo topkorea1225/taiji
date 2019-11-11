@@ -6,3 +6,4 @@ blue planB
 
 
 red do c;
+blue do d;
